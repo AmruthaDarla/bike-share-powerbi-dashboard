@@ -1,0 +1,15 @@
+year,state_abbreviation,state,rider_type,riders
+2022,CA,California,casual,53216
+2022,CA,California,registered,251887
+2022,FL,Florida,casual,51855
+2022,FL,Florida,registered,226464
+2022,IL,Illinois,casual,53530
+2022,IL,Illinois,registered,242099
+2022,NY,New York,casual,57732
+2022,NY,New York,registered,241098
+2022,OH,Ohio,casual,51281
+2022,OH,Ohio,registered,245463
+2022,PA,Pennsylvania,casual,53797
+2022,PA,Pennsylvania,registered,224355
+2022,TX,Texas,casual,51354
+2022,TX,Texas,registered,245445
