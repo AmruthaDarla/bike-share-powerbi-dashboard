@@ -4,10 +4,10 @@ This project presents an end-to-end data analysis of a bike-sharing system using
 
 Dataset Description:
 The analysis is based on the following datasets:
-bike_share_yr_0.csv → Bike usage data for Year 1
-bike_share_yr_1.csv → Bike usage data for Year 2
-cost_table.csv → Pricing and cost data for revenue & profit analysis
-bike_riders_data_by_state.csv → Geographic distribution of riders
+bike_share_yr_0.csv shows Bike usage data for Year 1
+bike_share_yr_1.csv shows Bike usage data for Year 2
+cost_table.csv shows Pricing and cost data for revenue & profit analysis
+bike_riders_data_by_state.csv shows Geographic distribution of riders
 
 Tools & Technologies:
 Power BI
